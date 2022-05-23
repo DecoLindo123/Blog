@@ -1,0 +1,23 @@
+.viagem_mainDiv img
+{
+width:100%;
+}
+.viagem_mainDiv
+{
+    border: 1px solid lightgreen;
+}
+ .filmes2
+ {
+   font-size: 20px;
+   padding: 6px 22px;
+   border-radius: 10px;
+   margin-bottom: 15px;
+ }
+  .filmes2 i
+ {
+      float: right;
+ }
+  .filmes2 img
+{
+      width: 250px;
+}
